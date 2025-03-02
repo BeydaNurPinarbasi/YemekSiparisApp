@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739061057619",
+    "project_id": "yemeksiparisapp-eb50e",
+    "storage_bucket": "yemeksiparisapp-eb50e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739061057619:android:242d143d3d5ada4be29ea6",
+        "android_client_info": {
+          "package_name": "com.yemeksiparisapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAOJ_-BlCopt27x4c7in0K_O-SMER6CkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
